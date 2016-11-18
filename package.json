@@ -1,0 +1,14 @@
+{
+  "name": "dockerized-express-js-hello-world",
+  "version": "1.0.0",
+  "description": "A simple dockerized hello world program built with express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zhiheng Yi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
